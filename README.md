@@ -1,6 +1,6 @@
 
 # Udacity Feed Reader Testing
-This project uses Jasmine Behavior-Driven JavaScript to validate the functionality of Feed Reader.
+Wrote comprehensive unit tests, using the Jasmine testing framework, for an RSS Feed Reader application that uses Google's RSS API.
 
 ### The Tests
 - RSS Feeds
